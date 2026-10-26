@@ -6,7 +6,7 @@ Esta declaracion explica como zN Client, un launcher independiente para Minecraf
 
 ## Responsable y contacto
 
-El proyecto zN Client es mantenido por su publicador a traves del repositorio [zNicoojk/zN-Client](https://github.com/zNicoojk/zN-Client). Para consultas sobre privacidad, abre una consulta en [GitHub Issues](https://github.com/zNicoojk/zN-Client/issues). No publiques contrasenas, tokens ni otros datos privados en una consulta.
+El proyecto zN Client es mantenido por su publicador a traves del repositorio [zNicoojk/zN-Client](https://github.com/zNicoojk/zN-Client). Para consultas sobre privacidad, abre una consulta en [GitHub Issues](https://github.com/zNicoojk/zN-Client/issues). No publiques contraseñas, tokens ni otros datos privados en una consulta.
 
 ## Informacion que se guarda en el dispositivo
 
