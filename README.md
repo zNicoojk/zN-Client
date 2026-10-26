@@ -54,14 +54,4 @@ Los ajustes, las cuentas guardadas y los archivos del juego se almacenan localme
 
 El instalador incluye el runtime Java necesario para la versión actual y el launcher puede preparar otros runtimes cuando una versión seleccionada los requiera.
 
-## Para desarrolladores
 
-### Ejecutar en desarrollo
-
-1. Instala Node.js 24 o superior.
-2. Clona o descarga este repositorio.
-3. Abre PowerShell en la carpeta del proyecto y ejecuta:
-
-   ```powershell
-   npm install
-   npm start
