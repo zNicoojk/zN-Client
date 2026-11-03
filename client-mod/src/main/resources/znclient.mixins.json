@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.znclient.mod.mixin",
+  "client": [
+    "CameraZoomMixin",
+    "MouseHandlerZoomMixin",
+    "FirstPersonHandsViewModelMixin",
+    "GuiTitleScreenMixin",
+    "ScreenVisualMixin",
+    "LoadingOverlayBrandingMixin",
+    "AbstractButtonStyleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
