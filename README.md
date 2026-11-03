@@ -2,27 +2,6 @@
 
 Primera versión del launcher de Minecraft Java para Windows.
 
-## Ejecutar en desarrollo
-
-1. Instala Node.js 24 o superior.
-2. Abre PowerShell en esta carpeta y ejecuta `npm install`.
-3. Ejecuta `npm start`.
-
-## Crear instalador de Windows
-
-Ejecuta `npm run dist`. El instalador se genera dentro de `release/`.
-
-## Publicar una actualización
-
-El launcher comprueba al abrir si hay una versión nueva en GitHub Releases (`zNicoojk/zN-Client`). En desarrollo no ejecuta la comprobación.
-
-1. Sube los cambios al repositorio y aumenta `version` en `package.json` (por ejemplo, de `0.1.0` a `0.1.1`).
-2. Crea un token de GitHub con permiso para publicar releases en ese repositorio y configúralo en PowerShell como `GH_TOKEN`.
-3. Ejecuta `npm run release`. El comando construye el instalador y publica los archivos que el actualizador necesita.
-4. Los usuarios con una versión anterior verán un aviso al abrir zN Client; podrán descargar la actualización y reiniciar para instalarla.
-
-No publiques el token ni lo guardes en el código. La primera versión con el actualizador también debe publicarse como una release; para probar la actualización de punta a punta se necesitan una versión ya instalada y una release posterior con un número mayor.
-
 ## Primer inicio
 
 1. Inicia sesión con una cuenta Microsoft que tenga Minecraft: Java Edition.
