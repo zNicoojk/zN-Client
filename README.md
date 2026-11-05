@@ -4,7 +4,7 @@ Primera versión del launcher de Minecraft Java para Windows.
 
 ## Primer inicio
 
-1. Inicia sesión con una cuenta Microsoft que tenga Minecraft: Java Edition.
+1. Inicia sesión con una cuenta Microsoft que tenga Minecraft: Java Edition / O con una cuenta offline/local (no premium)
 2. Elige una versión y la memoria RAM.
 3. Pulsa **Jugar ahora**. El instalador incluye el runtime Java compatible con la última versión de Minecraft; si eliges una versión que necesita otro Java, el launcher lo descarga automáticamente. Minecraft descarga sus archivos la primera vez que inicias cada versión.
 
